@@ -1,0 +1,10 @@
+# Dependencies
+pytest
+boto3
+aws-secretsmanager-caching
+
+# Packages for coding
+black
+flake8
+mypy
+isort
